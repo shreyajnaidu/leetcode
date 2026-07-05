@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shreyajnaidu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shreyajnaidu/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shreyajnaidu/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyajnaidu/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shreyajnaidu/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shreyajnaidu/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
