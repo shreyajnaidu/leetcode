@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/shreyajnaidu/leetcode/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/shreyajnaidu/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shreyajnaidu/leetcode/tree/master/0567-permutation-in-string) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shreyajnaidu/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/shreyajnaidu/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shreyajnaidu/leetcode/tree/master/0076-minimum-window-substring) |
+| [0165-compare-version-numbers](https://github.com/shreyajnaidu/leetcode/tree/master/0165-compare-version-numbers) |
 | [0415-add-strings](https://github.com/shreyajnaidu/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyajnaidu/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyajnaidu/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
