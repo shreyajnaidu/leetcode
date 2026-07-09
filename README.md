@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shreyajnaidu/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shreyajnaidu/leetcode/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/shreyajnaidu/leetcode/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/shreyajnaidu/leetcode/tree/master/0179-largest-number) |
 | [0415-add-strings](https://github.com/shreyajnaidu/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyajnaidu/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyajnaidu/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyajnaidu/leetcode/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/shreyajnaidu/leetcode/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/shreyajnaidu/leetcode/tree/master/0415-add-strings) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/shreyajnaidu/leetcode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/shreyajnaidu/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
