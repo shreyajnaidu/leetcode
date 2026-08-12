@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shreyajnaidu/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/shreyajnaidu/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shreyajnaidu/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
