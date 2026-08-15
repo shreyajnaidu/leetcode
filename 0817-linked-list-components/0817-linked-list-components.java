@@ -22,11 +22,9 @@ class Solution {
                 while(temp!=null && set.contains(temp.val)){
                     temp=temp.next;
                 }
-            }
-            if(temp==null){
-                return count;
-            }
-            temp=temp.next;
+            }else {
+            temp = temp.next;
+        }
         }
     return count;
     }
