@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shreyajnaidu/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyajnaidu/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shreyajnaidu/leetcode/tree/master/0567-permutation-in-string) |
+| [0817-linked-list-components](https://github.com/shreyajnaidu/leetcode/tree/master/0817-linked-list-components) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyajnaidu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/shreyajnaidu/leetcode/tree/master/0179-largest-number) |
+| [0817-linked-list-components](https://github.com/shreyajnaidu/leetcode/tree/master/0817-linked-list-components) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/shreyajnaidu/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/shreyajnaidu/leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shreyajnaidu/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/shreyajnaidu/leetcode/tree/master/1669-merge-in-between-linked-lists) |
