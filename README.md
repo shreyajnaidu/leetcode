@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyajnaidu/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/shreyajnaidu/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shreyajnaidu/leetcode/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyajnaidu/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/shreyajnaidu/leetcode/tree/master/0179-largest-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyajnaidu/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shreyajnaidu/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyajnaidu/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyajnaidu/leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyajnaidu/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
