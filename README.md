@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyajnaidu/leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/shreyajnaidu/leetcode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/shreyajnaidu/leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -238,10 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shreyajnaidu/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shreyajnaidu/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shreyajnaidu/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shreyajnaidu/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
