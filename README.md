@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/shreyajnaidu/leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/shreyajnaidu/leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shreyajnaidu/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Simulation
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shreyajnaidu/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/shreyajnaidu/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/shreyajnaidu/leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -234,5 +236,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/shreyajnaidu/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/0542-01-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shreyajnaidu/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
