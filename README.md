@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/shreyajnaidu/leetcode/tree/master/0817-linked-list-components) |
 | [0994-rotting-oranges](https://github.com/shreyajnaidu/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/shreyajnaidu/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyajnaidu/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shreyajnaidu/leetcode/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shreyajnaidu/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
