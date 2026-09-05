@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shreyajnaidu/leetcode/tree/master/0567-permutation-in-string) |
 | [0817-linked-list-components](https://github.com/shreyajnaidu/leetcode/tree/master/0817-linked-list-components) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1396-design-underground-system](https://github.com/shreyajnaidu/leetcode/tree/master/1396-design-underground-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyajnaidu/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shreyajnaidu/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1396-design-underground-system](https://github.com/shreyajnaidu/leetcode/tree/master/1396-design-underground-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shreyajnaidu/leetcode/tree/master/0155-min-stack) |
+| [1396-design-underground-system](https://github.com/shreyajnaidu/leetcode/tree/master/1396-design-underground-system) |
 ## Monotonic Stack
 |  |
 | ------- |
