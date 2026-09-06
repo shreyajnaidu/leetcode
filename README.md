@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shreyajnaidu/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shreyajnaidu/leetcode/tree/master/0567-permutation-in-string) |
 | [0817-linked-list-components](https://github.com/shreyajnaidu/leetcode/tree/master/0817-linked-list-components) |
+| [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1396-design-underground-system](https://github.com/shreyajnaidu/leetcode/tree/master/1396-design-underground-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shreyajnaidu/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shreyajnaidu/leetcode/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyajnaidu/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shreyajnaidu/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyajnaidu/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1396-design-underground-system](https://github.com/shreyajnaidu/leetcode/tree/master/1396-design-underground-system) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shreyajnaidu/leetcode/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/shreyajnaidu/leetcode/tree/master/1396-design-underground-system) |
 ## Monotonic Stack
 |  |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
