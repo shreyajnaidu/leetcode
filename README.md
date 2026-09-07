@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shreyajnaidu/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyajnaidu/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyajnaidu/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyajnaidu/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shreyajnaidu/leetcode/tree/master/0496-next-greater-element-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/shreyajnaidu/leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shreyajnaidu/leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/shreyajnaidu/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shreyajnaidu/leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/shreyajnaidu/leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/shreyajnaidu/leetcode/tree/master/0200-number-of-islands) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/shreyajnaidu/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/0542-01-matrix) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/shreyajnaidu/leetcode/tree/master/0179-largest-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
