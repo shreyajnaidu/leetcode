@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shreyajnaidu/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyajnaidu/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/shreyajnaidu/leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyajnaidu/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyajnaidu/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shreyajnaidu/leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyajnaidu/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/shreyajnaidu/leetcode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/shreyajnaidu/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shreyajnaidu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shreyajnaidu/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shreyajnaidu/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shreyajnaidu/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/shreyajnaidu/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/shreyajnaidu/leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/shreyajnaidu/leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shreyajnaidu/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/shreyajnaidu/leetcode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
