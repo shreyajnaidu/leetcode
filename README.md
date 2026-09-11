@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyajnaidu/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shreyajnaidu/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shreyajnaidu/leetcode/tree/master/0567-permutation-in-string) |
+| [0609-find-duplicate-file-in-system](https://github.com/shreyajnaidu/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0771-jewels-and-stones](https://github.com/shreyajnaidu/leetcode/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/shreyajnaidu/leetcode/tree/master/0817-linked-list-components) |
 | [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyajnaidu/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/shreyajnaidu/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shreyajnaidu/leetcode/tree/master/0567-permutation-in-string) |
+| [0609-find-duplicate-file-in-system](https://github.com/shreyajnaidu/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0771-jewels-and-stones](https://github.com/shreyajnaidu/leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyajnaidu/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shreyajnaidu/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/0542-01-matrix) |
+| [0609-find-duplicate-file-in-system](https://github.com/shreyajnaidu/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0817-linked-list-components](https://github.com/shreyajnaidu/leetcode/tree/master/0817-linked-list-components) |
 | [0994-rotting-oranges](https://github.com/shreyajnaidu/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
