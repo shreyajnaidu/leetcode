@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/0542-01-matrix) |
 | [0609-find-duplicate-file-in-system](https://github.com/shreyajnaidu/leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0704-binary-search](https://github.com/shreyajnaidu/leetcode/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/shreyajnaidu/leetcode/tree/master/0817-linked-list-components) |
 | [0994-rotting-oranges](https://github.com/shreyajnaidu/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/shreyajnaidu/leetcode/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
