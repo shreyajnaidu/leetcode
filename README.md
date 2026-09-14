@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shreyajnaidu/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shreyajnaidu/leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0367-valid-perfect-square](https://github.com/shreyajnaidu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/shreyajnaidu/leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/shreyajnaidu/leetcode/tree/master/0509-fibonacci-number) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shreyajnaidu/leetcode/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/shreyajnaidu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/shreyajnaidu/leetcode/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
