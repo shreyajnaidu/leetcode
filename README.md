@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyajnaidu/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shreyajnaidu/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/shreyajnaidu/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shreyajnaidu/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shreyajnaidu/leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shreyajnaidu/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shreyajnaidu/leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shreyajnaidu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/shreyajnaidu/leetcode/tree/master/0704-binary-search) |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyajnaidu/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shreyajnaidu/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
