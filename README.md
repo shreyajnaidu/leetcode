@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyajnaidu/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shreyajnaidu/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shreyajnaidu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/0542-01-matrix) |
 | [0609-find-duplicate-file-in-system](https://github.com/shreyajnaidu/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0704-binary-search](https://github.com/shreyajnaidu/leetcode/tree/master/0704-binary-search) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shreyajnaidu/leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreyajnaidu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shreyajnaidu/leetcode/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shreyajnaidu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shreyajnaidu/leetcode/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
