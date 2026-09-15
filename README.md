@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shreyajnaidu/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyajnaidu/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/shreyajnaidu/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/shreyajnaidu/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shreyajnaidu/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Trie
 |  |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyajnaidu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shreyajnaidu/leetcode/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/shreyajnaidu/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1539-kth-missing-positive-number](https://github.com/shreyajnaidu/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
