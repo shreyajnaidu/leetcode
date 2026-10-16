@@ -22,11 +22,10 @@ class Solution {
         }
         while(!q.isEmpty()){
             int n=q.size();
-            int level=0;
             for(int i=0;i<n;i++){
              TreeNode current=q.poll();
                 if(i==0){
-                    level=current.val;
+                    result.add(current.val);
                 }
             if(current.right!=null){
                 q.offer(current.right);
@@ -35,7 +34,6 @@ class Solution {
                 q.offer(current.left);
             }
          }
-         result.add(level);
         }
         return result;
     }
